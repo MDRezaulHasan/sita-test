@@ -9,7 +9,7 @@ const idLength = 8;
  *   schemas:
  *     Product:
  *       type: object
- *       required:a
+ *       required:
  *         - name
  *         - catagory
  *         - price
