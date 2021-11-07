@@ -9,7 +9,7 @@ const idLength = 8;
  *   schemas:
  *     Product:
  *       type: object
- *       required:
+ *       required:a
  *         - name
  *         - catagory
  *         - price
@@ -27,7 +27,6 @@ const idLength = 8;
  *           type: string
  *           description: Price of the product
  *       example:
- *         id: d5fE_asz
  *         name: Iphone 11
  *         catagory: Mobile
  *         price: 2000 

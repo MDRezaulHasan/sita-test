@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "id": "1",
-      "name": "macbook air 2021",
-      "catagory": "computer",
-      "price": "15000"
-    },
-    {
       "id": "Mi58EBCq",
       "name": "macbook pro 2021",
       "catagory": "computer",
@@ -29,6 +23,12 @@
       "name": "Iphone 11 pro",
       "catagory": "Mobile",
       "price": 20000
+    },
+    {
+      "id": "LFqWqnO3",
+      "name": "Iphone 11",
+      "catagory": "Mobile",
+      "price": 2000
     }
   ]
 }
